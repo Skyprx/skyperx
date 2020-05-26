@@ -1,2 +1,65 @@
-# skyperx
-Web App
+{
+  "name": "skyperx",
+  "version": "1.0.0",
+  "description": "aladinodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "release": "release-it"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@rampjs/cli": "^0.7.0",
+    "angular": "^1.7.9",
+    "ava": "^3.8.2",
+    "aws-amplify": "^3.0.12",
+    "bootstrap": "^4.5.0",
+    "dependency": "0.0.1",
+    "dependency-container-js": "^2.0.0-beta1",
+    "dependency-graph": "^0.9.0",
+    "dependency-tree": "^7.2.1",
+    "deps-sort": "^2.0.1",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "handlebars": "^4.7.6",
+    "i18n-calypso": "^4.0.0",
+    "inquirer": "^7.1.0",
+    "install-peerdeps": "^2.0.2",
+    "js": "^0.1.0",
+    "lint": "^0.7.0",
+    "loadjs": "^4.2.0",
+    "madge": "^3.9.0",
+    "netinfo": "^0.1.3",
+    "node-dependency-injection": "^2.6.3",
+    "node-sass": "^4.14.1",
+    "npm": "^6.14.5",
+    "npm-expansions": "^2.2.4",
+    "npm-install": "^1.4.0",
+    "octokit": "^1.0.0-hello-world",
+    "org": "^0.2.0",
+    "popper.js": "^1.16.1",
+    "prettier": "^2.0.5",
+    "pubsub": "^3.2.1",
+    "python": "0.0.4",
+    "read-package-tree": "^5.3.1",
+    "request": "^2.88.2",
+    "sass": "^1.26.5",
+    "script": "^0.1.4",
+    "strapi": "^3.0.0",
+    "vue": "^2.6.11",
+    "vue-js-modal": "^2.0.0-rc.3",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "@wordpress/dependency-extraction-webpack-plugin": "^2.6.0",
+    "eslint": "^7.1.0",
+    "install-peers-cli": "^2.2.0",
+    "release-it": "^13.6.1"
+  }
+}
+
