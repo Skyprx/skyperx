@@ -1,0 +1,19 @@
+{
+  "name": "skyperx",
+  "version": "1.0.0",
+  "description": "{\r   \"name\": \"skyperx\",\r   \"version\": \"1.0.0\",\r   \"description\": \"aladinodes\",\r   \"main\": \"index.js\",\r   \"scripts\": {\r     \"test\": \"ava\",\r     \"release\": \"release-it\"\r   },\r   \"author\": \"\",\r   \"license\": \"ISC\",\r   \"keywords\": [],\r   \"dependencies\": {\r     \"@rampjs/cli\": \"^0.7.0\",\r     \"angular\": \"^1.7.9\",\r     \"ava\": \"^3.8.2\",\r     \"aws-amplify\": \"^3.0.12\",\r     \"bootstrap\": \"^4.5.0\",\r     \"dependency\": \"0.0.1\",\r     \"dependency-container-js\": \"^2.0.0-beta1\",\r     \"dependency-graph\": \"^0.9.0\",\r     \"dependency-tree\": \"^7.2.1\",\r     \"deps-sort\": \"^2.0.1\",\r     \"eslint-config-airbnb\": \"^18.1.0\",\r     \"eslint-plugin-prettier\": \"^3.1.3\",\r     \"express\": \"^4.17.1\",\r     \"git\": \"^0.1.5\",\r     \"github\": \"^14.0.0\",\r     \"handlebars\": \"^4.7.6\",\r     \"i18n-calypso\": \"^4.0.0\",\r     \"inquirer\": \"^7.1.0\",\r     \"install-peerdeps\": \"^2.0.2\",\r     \"js\": \"^0.1.0\",\r     \"lint\": \"^0.7.0\",\r     \"loadjs\": \"^4.2.0\",\r     \"madge\": \"^3.9.0\",\r     \"netinfo\": \"^0.1.3\",\r     \"node-dependency-injection\": \"^2.6.3\",\r     \"node-sass\": \"^4.14.1\",\r     \"npm\": \"^6.14.5\",\r     \"npm-expansions\": \"^2.2.4\",\r     \"npm-install\": \"^1.4.0\",\r     \"octokit\": \"^1.0.0-hello-world\",\r     \"org\": \"^0.2.0\",\r     \"popper.js\": \"^1.16.1\",\r     \"prettier\": \"^2.0.5\",\r     \"pubsub\": \"^3.2.1\",\r     \"python\": \"0.0.4\",\r     \"read-package-tree\": \"^5.3.1\",\r     \"request\": \"^2.88.2\",\r     \"sass\": \"^1.26.5\",\r     \"script\": \"^0.1.4\",\r     \"strapi\": \"^3.0.0\",\r     \"vue\": \"^2.6.11\",\r     \"vue-js-modal\": \"^2.0.0-rc.3\",\r     \"yarn\": \"^1.22.4\"\r   },\r   \"devDependencies\": {\r     \"@wordpress/dependency-extraction-webpack-plugin\": \"^2.6.0\",\r     \"eslint\": \"^7.1.0\",\r     \"install-peers-cli\": \"^2.2.0\",\r     \"release-it\": \"^13.6.1\"\r   }\r }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyprx/skyperx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skyprx/skyperx/issues"
+  },
+  "homepage": "https://github.com/Skyprx/skyperx#readme"
+}
